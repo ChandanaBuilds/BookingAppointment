@@ -55,8 +55,8 @@ This is a full-stack application that allows users to book appointments via a we
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/whatsapp-booking-app.git
-   cd whatsapp-booking-app
+   git clone https://github.com/your-username/BookingAppointment-app.git
+   cd BookingAppointment-app
 ````
 
 2. **Install Dependencies**
